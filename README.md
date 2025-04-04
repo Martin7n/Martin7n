@@ -1,5 +1,10 @@
 # 💫 About Me:
-Learning and eager to learn a lot of IT stuff.<br>Python, PSQL, Django, JS,  ExpressJS, HTML and CSS, DevOps and more.<br>Particullary Interested in automation of data retrieving and processing.<br><br>A true believer in DRY principle. :)<br>
+Learning and eager to learn a lot of IT stuff.<br>Python, PSQL, Django, JS,  ExpressJS, HTML and CSS, DevOps, QA and more.
+<br>
+Particullary Interested in automation of data retrieving and processing and systems integrations.<br>
+Also interested and having a background in financials, insurance, bank-insurance, claims handling.
+
+<br>A true believer in <strong>DRY</strong> principle. :)<br>
 
 
 ## 🌐 Socials:
