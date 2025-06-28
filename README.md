@@ -7,7 +7,7 @@ Also interested and having a background in financials, insurance, bank-insurance
 <br>A true believer in <strong>DRY</strong> principle. :)<br>
 
 
-## 🌐 Socials:
+## 🌐 Contacts:
 <!-- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Мартин Асенов) -->
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martin.assenov@gmail.com) 
 
